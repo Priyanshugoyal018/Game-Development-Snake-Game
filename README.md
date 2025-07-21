@@ -41,3 +41,4 @@ How to draw a “game” inside the console window
 Even though it looks simple, it’s a good example of how logic, conditions, and loops come together to create something fun and interactive.
 
 ## OUTPUT
+https://github.com/user-attachments/assets/640e73e1-0c09-4c72-8f35-b946ff1fe0a8
